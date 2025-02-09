@@ -1,0 +1,12 @@
+
+li>button {
+    font-size: 25px;
+    border: none;
+    color: white;
+}
+
+div#firstcontainer {
+    max-width: 550px;
+}
+
+
